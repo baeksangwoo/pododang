@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535169485179",
+    "firebase_url": "https://pododang-b9dc4.firebaseio.com",
+    "project_id": "pododang-b9dc4",
+    "storage_bucket": "pododang-b9dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535169485179:android:7a038d34c4d740212055de",
+        "android_client_info": {
+          "package_name": "pododang.podo_dang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535169485179-986up4njlsllobvmk44lrdnph075e4l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pododang.podo_dang",
+            "certificate_hash": "ecb8dd7a1b0e2b794cf233be54fb80248f8ac4c8"
+          }
+        },
+        {
+          "client_id": "535169485179-1213kvu0n92r9je752s9ep1neb1eufff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGEO7qsux31tzF5g2vOGqe2xiaJkFMBLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535169485179-1213kvu0n92r9je752s9ep1neb1eufff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "535169485179-h5k7u33ffn051n1712jf4ubfnlsr40oa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pododang.podoDang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535169485179-h5k7u33ffn051n1712jf4ubfnlsr40oa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535169485179-h5k7u33ffn051n1712jf4ubfnlsr40oa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>535169485179-986up4njlsllobvmk44lrdnph075e4l7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbVL-sX9N05siCt2sbABZkYA22jcf25L4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535169485179</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pododang.podoDang</string>
+	<key>PROJECT_ID</key>
+	<string>pododang-b9dc4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pododang-b9dc4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535169485179:ios:fecfe559069757c82055de</string>
+	<key>DATABASE_URL</key>
+	<string>https://pododang-b9dc4.firebaseio.com</string>
+</dict>
+</plist>
